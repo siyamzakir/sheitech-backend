@@ -26,3 +26,5 @@ yarn.lock
 package-lock.json
 composer-lock.json
 .iota-git
+db.php
+db.sql
