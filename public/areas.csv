@@ -1,0 +1,568 @@
+id,city_id,name,shipping_charge
+1,34,Amtali,0
+2,34,Bamna,0
+3,34,Barguna Sadar,0
+4,34,Betagi,0
+5,34,Patharghata,0
+6,34,Taltali,0
+7,35,Muladi,0
+8,35,Babuganj,0
+9,35,Agailjhara,0
+10,35,Barisal Sadar (KOTWALI),0
+11,35,Bakerganj,0
+12,35,Banaripara,0
+13,35,Gaurnadi,0
+14,35,Hizla,0
+15,35,Mehendiganj,0
+16,35,Wazirpur,0
+17,36,Bhola Sadar,0
+18,36,Burhanuddin,0
+19,36,Char Fasson,0
+20,36,Daulat Khan,0
+21,36,Lalmohan,0
+22,36,Manpura,0
+23,36,Tazumuddin,0
+24,37,Jhalokati Sadar,0
+25,37,Kanthalia,0
+26,37,Nalchity,0
+27,37,Rajapur,0
+28,38,Bauphal,0
+29,38,Dashmina,0
+30,38,Galachipa,0
+31,38,Kalapara,0
+32,38,Mirzaganj,0
+33,38,Patuakhali Sadar,0
+34,38,Dumki,0
+35,38,Rangabali,0
+36,39,Bhandaria,0
+37,39,Kawkhali,0
+38,39,Mathbaria,0
+39,39,Nazirpur,0
+40,39,Nesarabad (SWARUPKATI),0
+41,39,Pirojpur Sadar,0
+42,39,Zianagar,0
+43,40,Bandarban Sadar,0
+44,40,Thanchi,0
+45,40,Lama,0
+46,40,Naikhongchhari,0
+47,40,Alikadam,0
+48,40,Rowangchhari,0
+49,40,Ruma,0
+50,41,Brahmanbaria Sadar,0
+51,41,Ashuganj,0
+52,41,Nasirnagar,0
+53,41,Nabinagar,0
+54,41,Sarail,0
+55,41,Shahbazpur Town,0
+56,41,Kasba,0
+57,41,Akhaura,0
+58,41,Bancharampur,0
+59,41,Bijoynagar,0
+60,42,Chandpur Sadar,0
+61,42,Faridganj,0
+62,42,Haimchar,0
+63,42,Haziganj,0
+64,42,Kachua,0
+65,42,Matlab Uttar,0
+66,42,Matlab Dakshin,0
+67,42,Shahrasti,0
+68,43,Anwara,0
+69,43,Banshkhali,0
+70,43,Boalkhali,0
+71,43,Chandanaish,0
+72,43,Fatikchhari,0
+73,43,Hathazari,0
+74,43,Lohagara,0
+75,43,Mirsharai,0
+76,43,Patiya,0
+77,43,Rangunia,0
+78,43,Raozan,0
+79,43,Sandwip,0
+80,43,Satkania,0
+81,43,Sitakunda,0
+527,43,Bayejid Bostami,0
+528,43,Bakalia ,0
+529,43,Chandgaon,0
+530,43,Chittagong Port,0
+531,43,Double Mooring,0
+532,43,Halishahar,0
+533,43,Kotwali,0
+534,43,Khulshi,0
+535,43,Pahartali,0
+536,43,Panchlaish,0
+537,43,Patenga,0
+82,44,Barura,0
+83,44,Brahman Para,0
+84,44,Burichang,0
+85,44,Chandina,0
+86,44,Chauddagram,0
+87,44,Daudkandi,0
+88,44,Debidwar,0
+89,44,Homna,0
+90,44,Comilla Adarsha Sadar,0
+91,44,Laksam,0
+92,44,Manohargonj,0
+93,44,Meghna,0
+94,44,Muradnagar,0
+95,44,Nangalkot,0
+96,44,Comilla Sadar South,0
+97,44,Titas,0
+538,44,Comilla Sadar Dakshin,0
+98,45,Chakaria,0
+100,45,Cox's Bazar Sadar,0
+101,45,Kutubdia,0
+102,45,Maheshkhali,0
+103,45,Ramu,0
+104,45,Teknaf,0
+105,45,Ukhia,0
+106,45,Pekua,0
+107,46,Feni Sadar,0
+108,46,Chhagalnaiya,0
+109,46,Daganbhuiyan,0
+110,46,Parshuram,0
+111,46,Fhulgazi,0
+112,46,Sonagazi,0
+113,47,Dighinala,0
+114,47,Khagrachhari Sadar,0
+115,47,Lakshmichhari,0
+116,47,Mahalchhari,0
+117,47,Manikchhari,0
+118,47,Matiranga,0
+119,47,Panchhari,0
+120,47,Ramgarh,0
+121,48,Lakshmipur Sadar,0
+122,48,Roypur,0
+123,48,Ramganj,0
+124,48,Ramgati,0
+125,48,Kamalnagar,0
+126,49,Noakhali Sadar,0
+127,49,Begumganj,0
+128,49,Chatkhil,0
+129,49,Companiganj,0
+130,49,Senbagh,0
+131,49,Hatiya,0
+132,49,Kabirhat,0
+133,49,Sonaimuri,0
+134,49,Subornochar,0
+135,50,Rangamati Sadar UP,0
+136,50,Belaichhari ,0
+137,50,Baghaichhari,0
+138,50,Barkal Upazila,0
+139,50,Jurai chhari ,0
+140,50,Rajasthali Upazila,0
+141,50,Kaptai Upazila,0
+142,50,Langadu Upazila,0
+143,50,Naniarchar Upazila,0
+144,50,Kaukhali (Betbunia),0
+145,1,Dhamrai,0
+146,66,Dohar,0
+147,67,Keraniganj,0
+148,68,Nawabganj,0
+149,69,Savar,0
+150,2,Faridpur Sadar,0
+151,2,Boalmari,0
+152,2,Alfadanga,0
+153,2,Madhukhali,0
+154,2,Bhanga,0
+155,2,Nagarkanda,0
+156,2,Charbhadrasan,0
+157,2,Sadarpur,0
+158,2,Shaltha,0
+159,3,Gazipur Sadar,0
+160,3,Kaliakair,0
+161,3,Kapasia,0
+162,3,Sreepur,0
+163,3,Kaliganj,0
+164,3,Tongi,0
+165,4,Gopalganj Sadar,0
+166,4,Kashiani,0
+167,4,Kotalipara,0
+168,4,Muksudpur,0
+169,4,Tungipara,0
+170,5,Dewanganj,0
+171,5,Bakshiganj,0
+172,5,Islampur,0
+173,5,Jamalpur Sadar,0
+174,5,Madarganj,0
+175,5,Melandaha,0
+176,5,Sarishabari,0
+177,5,Narundi Police I.C,0
+178,6,Austagram,0
+179,6,Bajitpur,0
+180,6,Bhairab,0
+181,6,Hossainpur,0
+182,6,Itna,0
+183,6,Karimganj,0
+184,6,Katiadi,0
+185,6,Kishoreganj Sadar,0
+186,6,Kuliarchar,0
+187,6,Mithamain,0
+188,6,Nikli,0
+189,6,Pakundia,0
+190,6,Tarail,0
+191,7,Madaripur Sadar,0
+192,7,Kalkini,0
+193,7,Rajoir,0
+194,7,Shibchar,0
+195,8,Manikganj Sadar,0
+196,8,Singair,0
+197,8,Shibalaya,0
+198,8,Saturia,0
+199,8,Harirampur,0
+200,8,Ghior,0
+201,8,Daulatpur,0
+202,9,Lohajang,0
+203,9,Sreenagar,0
+204,9,Munshiganj Sadar,0
+205,9,Sirajdikhan,0
+206,9,Tongibari,0
+207,9,Gazaria,0
+208,10,Bhaluka,0
+209,10,Trishal,0
+210,10,Haluaghat,0
+211,10,Muktagachha,0
+212,10,Dhobaura,0
+213,10,Fulbaria,0
+214,10,Gaffargaon,0
+215,10,Gauripur,0
+216,10,Ishwarganj,0
+217,10,Mymensingh Sadar,0
+218,10,Nandail,0
+219,10,Phulpur,0
+220,11,Araihazar,0
+221,11,Sonargaon,0
+222,11,Bandar,0
+223,11,Naryanganj Sadar,0
+224,11,Rupganj,0
+225,11,Siddirgonj,0
+226,12,Belabo,0
+227,12,Monohardi,0
+228,12,Narsingdi Sadar,0
+229,12,Palash,0
+230,12,"Roypura, Narsingdi",0
+231,12,Shibpur,0
+232,13,Kendua Upazilla,0
+233,13,Atpara Upazilla,0
+234,13,Barhatta Upazilla,0
+235,13,Durgapur Upazilla,0
+236,13,Kalmakanda Upazilla,0
+237,13,Madan Upazilla,0
+238,13,Mohanganj Upazilla,0
+239,13,Netrakona-S Upazilla,0
+240,13,Purbadhala Upazilla,0
+241,13,Khaliajuri Upazilla,0
+242,14,Baliakandi,0
+243,14,Goalandaghat,0
+244,14,Pangsha,0
+245,14,Kalukhali,0
+246,14,Rajbari Sadar,0
+247,15,Shariatpur Sadar -Palong,0
+248,15,Damudya,0
+249,15,Naria,0
+250,15,Zajira,0
+251,15,Bhedarganj,0
+252,15,Gosairhat,0
+253,16,Jhenaigati,0
+254,16,Nakla,0
+255,16,Nalitabari,0
+256,16,Sherpur Sadar,0
+257,16,Sreebardi,0
+258,17,Tangail Sadar,0
+259,17,Sakhipur,0
+260,17,Basail,0
+261,17,Madhupur,0
+262,17,Ghatail,0
+263,17,Kalihati,0
+264,17,Nagarpur,0
+265,17,Mirzapur,0
+266,17,Gopalpur,0
+267,17,Delduar,0
+268,17,Bhuapur,0
+269,17,Dhanbari,0
+270,55,Bagerhat Sadar,0
+271,55,Chitalmari,0
+272,55,Fakirhat,0
+273,55,Kachua,0
+274,55,Mollahat,0
+275,55,Mongla,0
+276,55,Morrelganj,0
+277,55,Rampal,0
+278,55,Sarankhola,0
+279,56,Damurhuda,0
+280,56,Chuadanga Sadar,0
+281,56,Jibannagar,0
+282,56,Alamdanga,0
+283,57,Abhaynagar,0
+284,57,Keshabpur,0
+285,57,Bagherpara,0
+286,57,Jessore Sadar,0
+287,57,Chaugachha,0
+288,57,Manirampur,0
+289,57,Jhikargachha,0
+290,57,Sharsha,0
+291,58,Jhenaidah Sadar,0
+292,58,Maheshpur,0
+293,58,Kaliganj,0
+294,58,Kotchandpur,0
+295,58,Shailkupa,0
+296,58,Harinakunda,0
+297,59,Terokhada,0
+298,59,Batiaghata,0
+299,59,Dacope,0
+300,59,Dumuria,0
+301,59,Dighalia,0
+302,59,Koyra,0
+303,59,Paikgachha,0
+304,59,Phultala,0
+305,59,Rupsa,0
+539,59,Daulatpur,0
+540,59,Khalishpur,0
+541,59,Khan Jahan Ali,0
+542,59,Khulna Sadar,0
+306,60,Kushtia Sadar,0
+307,60,Kumarkhali,0
+308,60,Daulatpur,0
+309,60,Mirpur,0
+310,60,Bheramara,0
+311,60,Khoksa,0
+312,61,Magura Sadar,0
+313,61,Mohammadpur,0
+314,61,Shalikha,0
+315,61,Sreepur,0
+316,62,Gangni,0
+317,62,Mujib Nagar,0
+318,62,Meherpur Sadar,0
+319,63,Narail Sadar,0
+320,63,Lohagara Upazilla,0
+321,63,Kalia,0
+322,64,Satkhira Sadar,0
+323,64,Assasuni,0
+324,64,Debhata,0
+325,64,Tala,0
+326,64,Kalaroa,0
+327,64,Kaliganj,0
+328,64,Shyamnagar,0
+329,18,Adamdighi,0
+330,18,Bogra Sadar,0
+331,18,Sherpur,0
+332,18,Dhunat,0
+333,18,Dhupchanchia,0
+334,18,Gabtali,0
+335,18,Kahaloo,0
+336,18,Nandigram,0
+337,18,Shajahanpur,0
+338,18,Sariakandi,0
+339,18,Shibganj,0
+340,18,Sonatala,0
+341,19,Joypurhat Sadar,0
+342,19,Akkelpur,0
+343,19,Kalai,0
+344,19,Khetlal,0
+345,19,Panchbibi,0
+346,20,Naogaon Sadar,0
+347,20,Mohadevpur,0
+348,20,Manda,0
+349,20,Niamatpur,0
+350,20,Atrai,0
+351,20,Raninagar,0
+352,20,Patnitala,0
+353,20,Dhamoirhat,0
+354,20,Sapahar,0
+355,20,Porsha,0
+356,20,Badalgachhi,0
+357,21,Natore Sadar,0
+358,21,Baraigram,0
+359,21,Bagatipara,0
+360,21,Lalpur,0
+361,21,Singra,0
+362,21,Baraigram,0
+363,22,Bholahat,0
+364,22,Gomastapur,0
+365,22,Nachole,0
+366,22,Chapai Nababganj Sadar,0
+367,22,Shibganj,0
+368,23,Atgharia,0
+369,23,Bera,0
+370,23,Bhangura,0
+371,23,Chatmohar,0
+372,23,Faridpur,0
+373,23,Ishwardi,0
+374,23,Pabna Sadar,0
+375,23,Santhia,0
+376,23,Sujanagar,0
+377,24,Bagha,0
+378,24,Bagmara,0
+379,24,Charghat,0
+380,24,Durgapur,0
+381,24,Godagari,0
+382,24,Mohanpur,0
+383,24,Paba,0
+384,24,Puthia,0
+385,24,Tanore,0
+543,24,Boalia,0
+544,24,Matihar,0
+545,24,Rajpara,0
+546,24,Shah Makhdum,0
+386,25,Sirajganj Sadar,0
+387,25,Belkuchi,0
+388,25,Chauhali,0
+389,25,Kamarkhanda,0
+390,25,Kazipur,0
+391,25,Raiganj,0
+392,25,Shahjadpur,0
+393,25,Tarash,0
+394,25,Ullahpara,0
+395,26,Birampur,0
+396,26,Birganj,0
+397,26,Biral,0
+398,26,Bochaganj,0
+399,26,Chirirbandar,0
+400,26,Phulbari,0
+401,26,Ghoraghat,0
+402,26,Hakimpur,0
+403,26,Kaharole,0
+404,26,Khansama,0
+405,26,Dinajpur Sadar,0
+406,26,Nawabganj,0
+407,26,Parbatipur,0
+408,27,Fulchhari,0
+409,27,Gaibandha Sadar,0
+410,27,Gobindaganj,0
+411,27,Palashbari,0
+412,27,Sadullapur,0
+413,27,Saghata,0
+414,27,Sundarganj,0
+415,28,Kurigram Sadar,0
+416,28,Nageshwari,0
+417,28,Bhurungamari,0
+418,28,Phulbari,0
+419,28,Rajarhat,0
+420,28,Ulipur,0
+421,28,Chilmari,0
+422,28,Rowmari,0
+423,28,Char Rajibpur,0
+424,29,Lalmonirhat Sadar,0
+425,29,Aditmari,0
+426,29,Kaliganj,0
+427,29,Hatibandha,0
+428,29,Patgram,0
+429,30,Nilphamari Sadar,0
+430,30,Saidpur,0
+431,30,Jaldhaka,0
+432,30,Kishoreganj,0
+433,30,Domar,0
+434,30,Dimla,0
+435,31,Panchagarh Sadar,0
+436,31,Debiganj,0
+437,31,Boda,0
+438,31,Atwari,0
+439,31,Tetulia,0
+440,32,Badarganj,0
+441,32,Mithapukur,0
+442,32,Gangachara,0
+443,32,Kaunia,0
+444,32,Rangpur Sadar,0
+445,32,Pirgachha,0
+446,32,Pirganj,0
+447,32,Taraganj,0
+448,33,Thakurgaon Sadar,0
+449,33,Pirganj,0
+450,33,Baliadangi,0
+451,33,Haripur,0
+452,33,Ranisankail,0
+453,51,Ajmiriganj,0
+454,51,Baniachang,0
+455,51,Bahubal,0
+456,51,Chunarughat,0
+457,51,Habiganj Sadar,0
+458,51,Lakhai,0
+459,51,Madhabpur,0
+460,51,Nabiganj,0
+461,51,Shaistagonj,0
+462,52,Moulvibazar Sadar,0
+463,52,Barlekha,0
+464,52,Juri,0
+465,52,Kamalganj,0
+466,52,Kulaura,0
+467,52,Rajnagar,0
+468,52,Sreemangal,0
+469,53,Bishwamvarpur,0
+470,53,Chhatak,0
+471,53,Derai,0
+472,53,Dharampasha,0
+473,53,Dowarabazar,0
+474,53,Jagannathpur,0
+475,53,Jamalganj,0
+476,53,Shalla,0
+477,53,Sunamganj Sadar,0
+478,53,Shanthiganj,0
+479,53,Tahirpur,0
+480,54,Sylhet Sadar,0
+481,54,Beanibazar,0
+482,54,Bishwanath,0
+483,54,Dakshin Surma,0
+484,54,Balaganj,0
+485,54,Companiganj,0
+486,54,Fenchuganj,0
+487,54,Golapganj,0
+488,54,Gowainghat,0
+489,54,Jointiapur,0
+490,54,Kanaighat,0
+491,54,Zakiganj,0
+492,54,Nabigonj,0
+547,54,Osmani Nagar,0
+493,45,Eidgaon,0
+494,53,Modhyanagar,0
+495,7,Dasar,0
+496,65,Agargaon,0
+497,65,Badda,0
+498,65,Bashundhara R/A,0
+499,65,Biman Bandar Thana,0
+500,65,Dhaka Cantonment,0
+501,65,Demra,0
+502,65,Dhanmondi,0
+503,65,Wari,0
+504,65,Gulshan,0
+505,65,Hazaribagh,0
+506,65,Kafrul,0
+507,65,Kamrangir Char,0
+508,65,Kalabagan,0
+509,65,Khilgaon,0
+510,65,Kotwali,0
+511,65,Lalbagh,0
+512,65,Lalmatia,0
+513,65,Mirpur,0
+514,65,Mugdapara,0
+515,65,Mohammadpur,0
+516,65,Motijheel,0
+517,69,Nabinagor,0
+518,65,Nikunja,0
+519,65,Pallabi,0
+520,65,Ramna,0
+521,65,Sabujbagh,0
+522,65,Uttarkhan,0
+523,65,Shutrapur,0
+524,65,Shyampur,0
+525,65,Tejgaon,0
+526,65,Uttara,0
+548,65,Adabor,0
+549,65,Bangshal ,0
+550,65,Banani,0
+551,65,Chak Bazar,0
+552,65,Dakshinkhan,0
+553,65,Darus Salam,0
+554,65,Bhashantek,0
+555,65,Bhatara,0
+556,65,Gendaria,0
+557,65,Jatrabari,0
+558,65,Khilkhet,0
+559,65,New Market,0
+560,65,Paltan,0
+561,65,Rampura,0
+562,65,Shahjahanpur,0
+563,65,Shah Ali,0
+564,65,Shahbagh,0
+565,65,Sher e Bangla Nagar,0
+566,65,Tejgaon Indusatrial Area,0
+567,65,Turag,0
+568,67,Kadamtoli,0
